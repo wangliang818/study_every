@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42ae460a-ae3d-47c2-a8ee-4cc35585297f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../java_nio/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../java_nio/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../java_nio/src/Main.java" afterPath="$PROJECT_DIR$/../../java_nio/src/Main.java" />
-    </list>
+    <list default="true" id="42ae460a-ae3d-47c2-a8ee-4cc35585297f" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -555,7 +552,7 @@
       <workItem from="1490134835721" duration="2131000" />
       <workItem from="1490192250716" duration="1328000" />
       <workItem from="1490592969338" duration="559000" />
-      <workItem from="1490595475170" duration="61000" />
+      <workItem from="1490595475170" duration="114000" />
     </task>
     <task id="LOCAL-00001" summary="file">
       <created>1490136664119</created>
@@ -575,11 +572,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4079000" />
+    <option name="totallyTimeSpent" value="4132000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
