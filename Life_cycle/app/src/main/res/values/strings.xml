@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Life_cycle</string>
+    <string name="title_activity_sendto">SendtoActivity</string>
+</resources>
